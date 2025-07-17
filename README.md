@@ -2,6 +2,7 @@
 <a href="https://t.me/hirocoding"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://x.com/@hirocoding"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fhirocode01&style=for-the-badge&logo=x&logoColor=%23fff&logoSize=36&labelColor=%23000&color=%23000" /></a>
 <a href="https://www.instagram.com/hirocoding"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@hirocoding"><img src="https://img.shields.io/badge/YouTube-FF0032?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <br /> <br />
 <samp>
 Hi, my name is Fazliddin <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="24px" ></a>
